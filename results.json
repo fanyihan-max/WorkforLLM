@@ -1,0 +1,5 @@
+{
+  "base_model_avg": 0.5,
+  "lora_model_avg": 0.5,
+  "improvement": 0.0
+}
